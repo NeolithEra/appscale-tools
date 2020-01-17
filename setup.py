@@ -49,7 +49,7 @@ setup(
     'boto',
     'google-api-python-client==1.5.4',
     'haikunator',
-    'httplib2',
+    'httplib2 <1dev',
     'oauth2client==4.0.0',
     'pyOpenSSL>=18.0.0',
     'PyYAML',
